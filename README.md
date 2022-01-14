@@ -1,6 +1,6 @@
 ## Hi there 👋  
 </br>
-My name is Aditya Pal, an aspiring 22-year Software Develoeper from Kolkata, West Bengal. I studied Computer Science in IIT Bhubaneswar and graduated in 2020 as a Gold Medalist. Currently I work full-time as an Analyst at Goldman Sachs.  
+My name is Aditya Pal, an aspiring 23-year Software Develoeper from Kolkata, West Bengal. I studied Computer Science in IIT Bhubaneswar and graduated in 2020 as a Gold Medalist. Currently I work full-time as an Analyst at Goldman Sachs.  
 </br>
 
 **Things I usually do**
