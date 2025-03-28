@@ -1,7 +1,11 @@
 ## Hi there 👋  
-</br>
-My name is Aditya Pal, an aspiring 27-year Software Develoeper from Kolkata, West Bengal. I studied Computer Science in IIT Bhubaneswar and graduated in 2020 as a Gold Medalist. Currently I work full-time as a software developer in [Arcana Analytics](https://www.linkedin.com/company/arcanaanalytics/).  
-</br>
+
+- My name is Aditya Pal, an aspiring 27-year Software Develoeper from Kolkata, West Bengal. 
+
+- I studied Computer Science in IIT Bhubaneswar and graduated in 2020 as a Gold Medalist. 
+
+- Currently I work full-time as a software developer in [Arcana Analytics](https://www.linkedin.com/company/arcanaanalytics/) .
+
 
 **Things I usually do**
 
